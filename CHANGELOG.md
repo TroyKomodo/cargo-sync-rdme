@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased] - ReleaseDate
 
+### Added
+
+* Add the ability to provide mapping overrides for rustdoc links.
+
 ## [0.4.2] - 2025-02-28
 
 ### Fixed
